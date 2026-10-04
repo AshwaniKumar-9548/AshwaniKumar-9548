@@ -1,66 +1,17 @@
 # 👋 Hi, I'm Ashwani Kumar
 
-### 🎓 MCA Data Science Student | Machine Learning | Deep Learning | Data Analytics
+### 🎓 MCA Data Science Student | Data Analytics | Machine Learning | Deep Learning
 
-I'm an MCA Data Science student passionate about building practical solutions using
-Machine Learning, Deep Learning, Computer Vision, and Data Analytics.
-
-I enjoy working with real-world datasets, developing predictive models, comparing
-different approaches, and turning data into meaningful insights.
-
----
-
-## 🚀 About Me
-
-- 🎓 Currently pursuing **MCA in Data Science**
-- 🤖 Interested in **Machine Learning & Deep Learning**
-- 📊 Interested in **Data Analytics and Predictive Modeling**
-- 🧠 Exploring **Computer Vision and Transformer-based models**
-- 📈 Experienced with **Time Series Forecasting**
-- 🔬 Interested in applying ML/DL to real-world problems
-- 🌱 Continuously learning and improving my Data Science skills
+I'm an MCA Data Science student focused on **Data Analytics, Machine Learning,
+Deep Learning, and Computer Vision**. I enjoy working with real-world datasets,
+extracting meaningful insights, building predictive models, and presenting
+results through clear visualizations and dashboards.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-### Programming & Data
-
-`Python` `SQL` `C/C++`
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-### Machine Learning
-
-`Scikit-learn` `XGBoost`
-
-`Regression` `Classification` `Feature Engineering`
-
-`Model Evaluation` `SHAP`
-
-### Deep Learning
-
-`PyTorch` `TensorFlow` `Keras`
-
-`CNN` `Vision Transformer (ViT)` `Swin Transformer`
-
-`EfficientNet`
-
-### Time Series
-
-`ARIMA` `Auto ARIMA` `Prophet` `LSTM`
-
-### Tools & Platforms
-
-`Git` `GitHub` `Jupyter Notebook`
-
-`Google Colab` `VS Code` `Streamlit`
-
----
-
-## 🔥 Featured Projects
-
-### 🧠 Alzheimer's Disease Classification
+### 🧠 [Alzheimer's Disease Classification](https://github.com/AshwaniKumar-9548/Alzheimer-Disease-Classification)
 
 Comparative deep learning study for four-stage Alzheimer's disease classification
 using:
@@ -70,40 +21,127 @@ using:
 - EfficientNet-B0
 - PyTorch
 - Transfer Learning
-- Class Balancing
+- Computer Vision
 - Model Evaluation
 
-**Focus:** Medical Image Classification • Computer Vision • Deep Learning
+**Focus:** Medical Image Classification • Deep Learning • Computer Vision
 
 ---
 
-### 📊 Customer Churn Prediction
+### 📊 [Customer Churn Prediction](https://github.com/AshwaniKumar-9548/Customer_Churn_Prediction)
 
 End-to-end machine learning project for predicting customer churn using:
 
 - Exploratory Data Analysis
-- Feature Engineering
+- Data Cleaning & Feature Engineering
 - XGBoost
 - SHAP Explainability
 - Model Evaluation
 - Streamlit Application
 
-**Focus:** Machine Learning • Predictive Analytics • Explainable AI
+**Focus:** Predictive Analytics • Machine Learning • Explainable AI
 
 ---
 
-### 🌍 Earthquake Forecasting
+### 🌍 [Earthquake Forecasting](https://github.com/AshwaniKumar-9548/Earthquake-Forecasting)
 
-Time-series forecasting project comparing multiple forecasting approaches:
+Time-series forecasting project comparing multiple statistical and deep learning
+approaches:
 
 - ARIMA
 - Auto ARIMA
 - Facebook Prophet
 - LSTM
 - Time-Series Analysis
-- Model Comparison
+- Forecasting & Model Comparison
 
 **Focus:** Time Series • Forecasting • Machine Learning • Deep Learning
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analytics
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Data Transformation
+- Feature Engineering
+- Statistical Analysis
+- Data Visualization
+- Dashboard Development
+- Business Insights & Reporting
+
+**Tools & Technologies:**
+
+`SQL` `MySQL` `Excel` `Power BI` `DAX`
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+---
+
+### 🤖 Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Classification
+- Regression
+- Ensemble Learning
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+- Explainable AI
+
+**Libraries & Frameworks:**
+
+`Scikit-learn` `XGBoost` `SHAP`
+
+---
+
+### 🧠 Deep Learning & Computer Vision
+
+- Neural Networks
+- CNN
+- Transfer Learning
+- Image Classification
+- Vision Transformers
+- Transformer-based Models
+
+**Frameworks & Models:**
+
+`PyTorch` `TensorFlow` `Keras`
+
+`ViT` `Swin Transformer` `EfficientNet`
+
+---
+
+### 📈 Time Series & Forecasting
+
+- Time Series Analysis
+- Stationarity Analysis
+- ACF & PACF
+- ARIMA
+- Auto ARIMA
+- Prophet
+- LSTM
+
+**Libraries:**
+
+`Statsmodels` `Prophet` `pmdarima`
+
+---
+
+### 💻 Programming & Tools
+
+**Languages:**
+
+`Python` `SQL` `C/C++`
+
+**Development & Platforms:**
+
+`Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code`
+
+`Streamlit`
 
 ---
 
@@ -113,25 +151,31 @@ Time-series forecasting project comparing multiple forecasting approaches:
 - Deep Learning
 - Computer Vision
 - Transformer Architectures
-- Time Series Forecasting
-- Data Analytics
-- ML Model Deployment
+- Data Analytics & Business Intelligence
+- Advanced SQL
+- Power BI & DAX
+- Machine Learning Model Deployment
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Focus
 
-I'm working toward becoming a **Data Scientist / Machine Learning Engineer**,
-with a strong interest in building reliable, practical, and data-driven solutions.
+I'm working toward a career as a **Data Scientist / Machine Learning Engineer**,
+while strengthening my skills in **Data Analytics, Business Intelligence,
+Predictive Modeling, and Deep Learning**.
+
+My goal is to build practical, reliable, and data-driven solutions to real-world
+problems.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with students, developers, researchers, and professionals
-working in Data Science, Machine Learning, and Artificial Intelligence.
+I'm always interested in connecting with students, developers, researchers,
+and professionals working in **Data Science, Data Analytics, Machine Learning,
+and Artificial Intelligence**.
 
-**LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/ashwani-kumar-ds95)
+🔗 **[LinkedIn](https://www.linkedin.com/in/ashwani-kumar-ds95)**
 
 ---
 
